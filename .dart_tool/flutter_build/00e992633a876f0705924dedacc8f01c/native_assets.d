@@ -1,0 +1,1 @@
+ /Users/edi/_development/flutter/examples/clean_air/.dart_tool/flutter_build/00e992633a876f0705924dedacc8f01c/native_assets.yaml: 
